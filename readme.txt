@@ -13,7 +13,7 @@ usage: main.py [-h] [-l [SEG_LEN]] [-w [WIN_LEN]] [-p [N_POPS]] [-r [RATIO]]
                [input_file] [output_file]
 
 positional arguments:
-  input_file            Path of input genotype data file
+  input_file            Path of input genotype data file, in HAP format (http://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html#haplegsample)
   output_file           Path of output phased haplotype file, default stdout
 
 optional arguments:
