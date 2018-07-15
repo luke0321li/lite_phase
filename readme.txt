@@ -3,8 +3,8 @@ Python3
 Numpy
 Bitarray
 
-Using the default parameters (-l 8 -w 8 -p 1 -k 1) produces results for both
-test datasets under 40 minutes. However, using longer segments, windows and 
+Using the default parameters (-l 8 -w 8 -p 1 -k 1) produces results for most
+datasets under 40 minutes. However, using longer segments, windows and 
 k produces better results (e.g. -l 10 -w 10 -k 3)
 
 
